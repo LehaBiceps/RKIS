@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "6hbqqUQAFz2j4GfbjkleN77TYFloj4IKmuGPo3dzQ5ujLUrmx2RTYtbSKlTF59V43yb84/9I/7TLx6QeqRbw1Q==",
+  "success": true,
+  "projectFilePath": "/Users/aleksej/Documents/Учёба/C#/Практика 2/2/2/2.csproj",
+  "expectedPackageFiles": [
+    "/Users/aleksej/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/aleksej/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/aleksej/.nuget/packages/npgsql/8.0.2/npgsql.8.0.2.nupkg.sha512",
+    "/Users/aleksej/.nuget/packages/system.diagnostics.diagnosticsource/8.0.0/system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "/Users/aleksej/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/aleksej/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/Users/aleksej/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
