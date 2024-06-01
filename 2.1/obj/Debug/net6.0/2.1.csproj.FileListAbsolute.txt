@@ -1,0 +1,11 @@
+/Users/aleksej/Documents/Учёба/C#/2.1/2.1/bin/Debug/net6.0/2.1
+/Users/aleksej/Documents/Учёба/C#/2.1/2.1/bin/Debug/net6.0/2.1.dll
+/Users/aleksej/Documents/Учёба/C#/2.1/2.1/bin/Debug/net6.0/2.1.pdb
+/Users/aleksej/Documents/Учёба/C#/2.1/2.1/obj/Debug/net6.0/2.1.csproj.AssemblyReference.cache
+/Users/aleksej/Documents/Учёба/C#/2.1/2.1/obj/Debug/net6.0/2.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksej/Documents/Учёба/C#/2.1/2.1/obj/Debug/net6.0/2.1.AssemblyInfoInputs.cache
+/Users/aleksej/Documents/Учёба/C#/2.1/2.1/obj/Debug/net6.0/2.1.AssemblyInfo.cs
+/Users/aleksej/Documents/Учёба/C#/2.1/2.1/obj/Debug/net6.0/2.1.csproj.CoreCompileInputs.cache
+/Users/aleksej/Documents/Учёба/C#/2.1/2.1/obj/Debug/net6.0/2.1.dll
+/Users/aleksej/Documents/Учёба/C#/2.1/2.1/obj/Debug/net6.0/refint/2.1.dll
+/Users/aleksej/Documents/Учёба/C#/2.1/2.1/obj/Debug/net6.0/2.1.pdb
